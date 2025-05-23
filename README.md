@@ -2,10 +2,9 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/RenjiYuusei?style=social)](https://github.com/RenjiYuusei)
-![Profile Views](https://komarev.com/ghpvc/?username=RenjiYuusei&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/taqin?style=social)](https://github.com/taqin)
+![Profile Views](https://komarev.com/ghpvc/?username=taqin&color=blueviolet)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer;Vietnamese+Developer;Always+learning+new+things" alt="Typing SVG" />
 
 </div>
 
@@ -51,6 +50,7 @@ I'm a passionate product engineer who loves to create interesting projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/taqin/me/536cd28f0c074375753fd80b8f2930bdfbcbe819/github-user-contribution.svg" alt="Snake animation" />
+
 
 </div>
